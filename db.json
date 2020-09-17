@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Changed workstation on 010",
+      "attention": false,
+      "tech": "Graham Smith",
+      "date": "2020-09-16T23:36:51.498Z",
+      "id": 7
+    },
+    {
+      "message": "Headphones broken",
+      "attention": false,
+      "tech": "John Doe",
+      "id": "93b77f12-bd89-4626-9e32-4441acc98322",
+      "date": "2020-09-16T21:54:35.528Z"
+    },
+    {
+      "message": "Enter key not working on keyboard of 007 laptop",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-09-16T23:24:29.731Z",
+      "id": "9dbcb655-fc91-406f-97f1-9c81f7d85f72"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 5,
+      "firstName": "Graham",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Tanvi",
+      "lastName": "Renukunta",
+      "id": 6
+    }
+  ]
+}
